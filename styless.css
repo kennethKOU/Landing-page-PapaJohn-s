@@ -1,3 +1,11 @@
+:root{
+    border: 1px dotted green;
+    /* Colores de la marca PapaJhon's */
+    --rojito: #ff0017;
+    --white: #ffffff;
+    --verdeosc: #006d56;
+}
+
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #FF0017;

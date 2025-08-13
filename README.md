@@ -6,9 +6,9 @@ El  objectivo es mostrar la nueva pizza de mango peperoni
 
 colores primarios de Papa Jhon's
 
-#FF0017
-#006D56
-#FFFFFF
+- #FF0017 rojito
+- #006D56 verdeosc
+- #FFFFFF white
 
 ## Tipografía
 

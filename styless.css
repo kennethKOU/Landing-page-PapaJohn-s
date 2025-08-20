@@ -9,7 +9,7 @@ font-family: "Inconsolata", monospace;
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Inconsolata", monospace;
     background-color: #FF0017;
 
 }
@@ -17,19 +17,21 @@ body{
 h1{
 background-color: #006D56;
 color: #FFFFFF;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: "Inconsolata", monospace;
 padding: 20px;
 }
 
 p.intro{
     font-size: 2rem;
     color: #FFFFFF
+    
 }
 
 .logo {
     margin: 0 auto;
     width: 20;
     text-align: center;
+    transform: rotate(0.5turn);
 }
 
 .logo img{

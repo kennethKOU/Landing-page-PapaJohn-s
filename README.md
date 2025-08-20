@@ -20,7 +20,7 @@ Quien: Gente de la mediana edad y jovenes adultos, entre 18-44 Años
 
 Que necesita: Que los clientes no se aburran con las pmismas pizzas de siempre
 
-Que ofrece tu producto: Ingredientes diferentes a las pizzas casuales
+Que ofrece tu producto: Ingredientes diferentes a las pizzas, donde uno pueda crear su propia pizza.
 
 Beneficio final: nuevo paladar mas fino para que dejen la pizza con piña
 

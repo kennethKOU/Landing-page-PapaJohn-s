@@ -31,9 +31,25 @@ p.intro{
     margin: 0 auto;
     width: 20;
     text-align: center;
-    transform: rotate(0.5turn);
+    transform: translateX(50px) rotate(0.1deg) scale(1);
+    animation-duration: 2s;
+    animation-name: slide-in;;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
 .logo img{
     width: 300px;
+}
+
+@keyframes slide-in {
+    from {
+   translate: 20vw 0;
+   scale: 100% 1;
+}
+
+to {
+    translate: -30 0;
+    scale: 100% 1;
+     }
 }
